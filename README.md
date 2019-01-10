@@ -5,7 +5,7 @@
 3. [Leul](https://github.com/luwoldy)
 4. [Aziz](https://github.com/AzizIsa)
 
-## Problem Statement a.k.a Decompose The Ask 
+## Problem Statement a.k.a Decompose The Ask.
 
 
 
