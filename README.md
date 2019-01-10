@@ -2,7 +2,7 @@
 ## The Team
 1. [Prakriti](https://github.com/prakriti01)
 2. [Adrienne](https://github.com/AdrienneLewis)
-3. [Leul]((https://github.com/luwoldy)
+3. [Leul](https://github.com/luwoldy)
 4. [Aziz](https://github.com/AzizIsa)
 
 ## Problem Statement a.k.a Decompose The Ask ()
