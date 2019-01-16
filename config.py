@@ -1,2 +1,2 @@
-news_key = "0b8617a614b6404da9d85ceb46ee7a63"
+news_key = "e480268d1a8543269f51dc4c3dd39fdb"
 
