@@ -1,2 +1,1 @@
-news_key = "e480268d1a8543269f51dc4c3dd39fdb"
-
+int_key = "3ed30fb5-e2bb-4cd5-a6c3-b8c82237b870"
